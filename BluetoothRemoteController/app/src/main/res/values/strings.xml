@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BluetoothRemoteController</string>
+
+    <string name="angle60">60</string>
+    <string name="angle120">120</string>
+    <string name="angle180">180</string>
+
+    <string name="low">미풍</string>
+    <string name="mid">약풍</string>
+    <string name="high">강풍</string>
+
+    <string name="windstop">바람정지</string>
+    <string name="rotationstop">회전정지</string>
+
+    <string name="refresh">새로고침</string>
+    <string name="disconnect">연결차단</string>
+</resources>
